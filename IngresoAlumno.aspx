@@ -13,9 +13,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div style="width: 547px; height: 177px">
+        <div style="width: 579px; height: 177px">
             
-            <asp:Table id="Table1" CssClass="tabla" runat="server" Width="524px" BorderStyle="Solid" BorderColor="Black" BorderWidth="1px" cellspacing="1" margin="2px 2px 2px 2px">
+            <asp:Table id="Table1" runat="server" Width="545px" BorderStyle="Solid" BorderColor="Black" BorderWidth="1px" cellpadding="1" CellSpacing="3" margin="2px 2px 2px 2px">
                 <asp:TableRow>
                     <asp:TableCell ColumnSpan="10" BorderStyle="Solid" BorderColor="Black" BorderWidth="1px" HorizontalAlign="Center">
                         <asp:Label runat="server" CssClass="label">Datos Personales</asp:Label>
