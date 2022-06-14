@@ -1,0 +1,48 @@
+﻿body {
+    
+}
+
+.label{
+    background-color: #0000FF;
+    color: #00FF00;
+    font-size: 12px;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.obligatorio{
+    background-color: #FF0000;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.preferencias{
+    background-color: #00FF00;
+    color: #000000;
+    font-size: 8px;
+}
+
+.enfocada{
+    background-color:#66CCFF;
+    color: #3333CC;
+    font-family:Papyrus;
+}
+
+.desenfocada {
+    background-color: #FFFFFF;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+table{
+    margin: 2px 2px 2px 2px;
+}
+
+input {
+    margin: 2px 2px 2px 2px;
+}
+
+div {
+    background-color: antiquewhite;
+}
