@@ -15,6 +15,7 @@
     color: #FFFFFF;
     font-size: 14px;
     font-weight: bold;
+    text-align: center;
 }
 
 .preferencias{
@@ -35,9 +36,6 @@
     font-family: Arial;
 }
 
-table{
-    margin: 2px 2px 2px 2px;
-}
 
 input {
     margin: 2px 2px 2px 2px;
